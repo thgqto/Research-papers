@@ -1,0 +1,2 @@
+# This repo is intended to store my work on research papers in the cybersecurity field. The research is mostly focused on - but not limited to - enhancing the security of automotive systems.
+**The default state of documents is NOT PUBLISHED. Any research papers that are eventually published/peer reviewed will received the designation in its title, stating by "[published]..." as well as the citation will be included to this read.me section.**
